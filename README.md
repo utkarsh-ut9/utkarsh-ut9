@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarsh-ut9 a.k.a UT
 - 👀 I’m interested in coding xD 
-- 🌱 I’m currently learning Java, Web-development
+- 🌱 I’m currently learning Java, Android-apps-development
 - 📫 How to reach me ... > utkarsh.rana2001@gmail.com
 
 <!---

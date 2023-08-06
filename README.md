@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Kafka (Whatsapp Bot)](https://github.com/utkarsh-ut9/kafka)
 
-- 🌱 I’m currently learning **JavaScript, C++**
+- 🌱 I’m currently learning **JavaScript, Angular, TypeScript**
 
 - 📫 How to reach me **utkarsh.utk@outlook.com**
 

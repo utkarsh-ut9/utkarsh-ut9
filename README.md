@@ -31,11 +31,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
 
-  <!-- SQL (generic) -->
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="sql" width="40" height="40"/>
-  </a>
-
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -51,10 +46,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
 
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
@@ -81,10 +72,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
   </a>
 
-  <!-- BeautifulSoup (placeholder - no official icon) -->
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-beautiful-soup-is-a-python-library-for-pulling-data-out-of-html-and-xml-files-logo-shadow-tal-revivo.png" alt="beautifulsoup" width="40" height="40"/>
-  </a>
 </p>
 
 <!---

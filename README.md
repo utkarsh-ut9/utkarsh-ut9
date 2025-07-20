@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Generative AI Enthusiast | LLMs • FastAPI • Python • .NET Core • Angular • TypeScript </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGJfF6J3pPzKJri/giphy.gif" width="300" alt="Totoro waving">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXd4bXJzdWgzcGo3eW9qbzk4OGx5YWVvaGU4dThyMzRvdWNldXV4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" alt="Totoro waving">
 </p>
 
 <p align="center">
@@ -72,16 +72,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-ut9&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-ut9&theme=tokyonight" />
-</p>
-
----
-
-### 🎞️ Ghibli Moodboard
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200" alt="ghibli1"/>
-  <img src="https://media.giphy.com/media/3ohs7KViF4rK5MNg5a/giphy.gif" width="200" alt="ghibli2"/>
-  <img src="https://media.giphy.com/media/ToMjGpN8jB4ekj9TW8g/giphy.gif" width="200" alt="ghibli3"/>
 </p>
 
 ---
